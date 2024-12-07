@@ -1,2 +1,17 @@
 # BirdiesYT.github.io
-Mario's Missing Multiverses
+
+## Projects
+### Project 1
+- Description
+- Links
+
+### Project 2
+- Description
+- Links
+
+# Education
+- blah blah blah
+
+# Work History
+- Workplace 1
+- Work Place 2
